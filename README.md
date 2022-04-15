@@ -9,8 +9,8 @@ Contents - 目次
 - [Trained Result - 学習結果](#trained-result)
 
 # Set-ups
-**Training map**\
-<img src="pictures/p1.png" alt="drawing" width="480"/>\
+**Training map** and **Map with checkpoint setup**\
+<img src="pictures/p1.png" alt="drawing" width="380"/>  <img src="pictures/p3.png" alt="drawing" width="460"/>\
 **Physics car with wheel collider**\
 ![tp2](pictures/physics_car600.gif)
 
