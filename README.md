@@ -10,12 +10,13 @@ Contents - 目次
 
 # Set-ups
 **Training map**\
-<img src="pictures/road2.png" alt="drawing" width="480"/>\
+<img src="pictures/p1.png" alt="drawing" width="480"/>\
 **Physics car with wheel collider**\
 ![tp2](pictures/physics_car600.gif)
 
 # Method
-Agent shoots 7 rays. It will detect the distance to both the walls and checkpoints
+Agent shoots 7 rays. It will detect the distance to both the walls and checkpoints\
+**Reward** is porpotional to the distance to the checkpoint\
 <img src="pictures/p2.png" alt="drawing2" width="600"/>\
 
 # Trained Result
